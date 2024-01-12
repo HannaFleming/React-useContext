@@ -79,8 +79,12 @@ const [context, setContext] = useContext(Context)
 
 export default ComponentTwo; 
 ```
+
+![Screenshot 2024-01-12 111410](https://github.com/HannaFleming/React-useContext/assets/124400864/86cf700d-6424-4413-96b2-6a40cf3f79bf)
+
+
 ![Screenshot 2024-01-12 111502](https://github.com/HannaFleming/React-useContext/assets/124400864/d558c120-334e-4c72-9a61-17f559f299a5)
 
 
-![Screenshot 2024-01-12 111410](https://github.com/HannaFleming/React-useContext/assets/124400864/86cf700d-6424-4413-96b2-6a40cf3f79bf)
+
 
